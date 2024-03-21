@@ -1,4 +1,4 @@
-# CS371-Introduction-to-Deep-Learning
+# CS371 Introduction to Deep Learning
 This repo houses all the assignments I got a chance to do for my Deep Learning course at KAIST. Below is the summary of what is achieved for each assignment.
 
 ### HW1_Intro to Deep Learning
